@@ -125,7 +125,7 @@ python test.py
 ## 📁 Project Structure
 
 ```
-├── train.py              # Model training script
+├── app.py              # Model training script
 ├── test.py               # Custom image prediction
 ├── mnist_classifier.h5   # Saved trained model
 └── README.md             # Project documentation
